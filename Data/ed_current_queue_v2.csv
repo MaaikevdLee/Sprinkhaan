@@ -1,0 +1,21 @@
+patient_id,age,sex,presenting_complaint,triage_category,hours_in_ed,preliminary_diagnosis_code
+ED-001,63,F,"Reduced consciousness, found unresponsive",2,5.3,K70.30
+ED-002,55,F,"Shortness of breath at rest, known cardiac history",3,1.3,A41.9
+ED-003,97,F,"Worsening breathlessness, known COPD",3,2.8,G93.40
+ED-004,56,M,"Haematemesis, two episodes this morning",3,1.6,N17.9
+ED-005,43,M,"Fever, rigors and confusion for 24 hours",3,3.6,I21.9
+ED-006,97,M,Fever and productive cough for 3 days,3,0.3,A41.51
+ED-007,46,M,"Unable to pass urine, lower back pain",2,2.8,J44.1
+ED-008,58,F,"Fever, rigors and confusion for 24 hours",3,2.6,J45.901
+ED-009,73,M,Swollen and painful left leg since yesterday,3,4.4,R10.9
+ED-010,42,F,Severe headache with photophobia,4,0.5,K57.30
+ED-011,52,M,"Shortness of breath at rest, known cardiac history",4,5.2,R10.9
+ED-012,41,M,"High blood sugar, feeling generally unwell",3,17.0,J44.1
+ED-013,97,F,Swollen and painful left leg since yesterday,2,1.1,R07.9
+ED-014,20,F,"Unable to pass urine, lower back pain",1,2.1,J18.9
+ED-015,45,F,Fever and productive cough for 3 days,3,6.3,E86.0
+ED-016,97,M,Worsening confusion and agitation,3,2.4,N20.0
+ED-017,78,F,Fever and productive cough for 3 days,2,3.2,N39.0
+ED-018,68,F,"High blood sugar, feeling generally unwell",1,1.3,R10.9
+ED-019,70,M,"Haematemesis, two episodes this morning",3,7.0,E87.1
+ED-020,82,M,"Fever, rigors and confusion for 24 hours",4,6.0,J44.1
