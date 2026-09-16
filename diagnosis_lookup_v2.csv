@@ -1,0 +1,37 @@
+icd_code,description,diagnosis_category,dbc_code,typical_los_benchmark
+I21.9,"Acute myocardial infarction, unspecified",Cardiovascular,F66,5.2
+I50.9,"Heart failure, unspecified",Cardiovascular,F62,6.1
+I10,Essential (primary) hypertension,Cardiovascular,F68,3.1
+I48.91,Unspecified atrial fibrillation,Cardiovascular,F65,4.4
+I63.9,"Cerebral infarction, unspecified",Cardiovascular,B70,8.3
+I25.10,Atherosclerotic heart disease of native coronary artery,Cardiovascular,F66,4.1
+I20.9,"Angina pectoris, unspecified",Cardiovascular,F66,3.2
+J18.9,"Pneumonia, unspecified organism",Respiratory,E73,6.4
+J44.1,COPD with acute exacerbation,Respiratory,E71,7.2
+J45.901,Unspecified asthma with acute exacerbation,Respiratory,E71,4.1
+J96.00,"Acute respiratory failure, unspecified",Respiratory,E73,9.1
+J22,"Acute lower respiratory infection, unspecified",Respiratory,E73,4.8
+E11.9,Type 2 diabetes mellitus without complications,Metabolic,K60,3.4
+E11.65,Type 2 diabetes mellitus with hyperglycaemia,Metabolic,K60,4.8
+E86.0,Dehydration,Metabolic,K60,2.8
+E87.1,Hyponatraemia,Metabolic,K60,4.2
+E87.5,Hyperkalaemia,Metabolic,K60,3.1
+N18.3,"Chronic kidney disease, stage 3",Renal,L60,4.9
+N17.9,"Acute kidney injury, unspecified",Renal,L60,6.3
+N20.0,Calculus of kidney,Renal,L74,2.9
+N39.0,"Urinary tract infection, site not specified",Renal,L63,3.8
+K92.1,Melaena,Gastrointestinal,G60,5.1
+K81.0,Acute cholecystitis,Gastrointestinal,H07,5.8
+K57.30,Diverticulitis of large intestine without abscess,Gastrointestinal,G65,4.7
+K70.30,Alcoholic cirrhosis of liver without ascites,Gastrointestinal,G60,7.4
+K29.70,"Gastritis, unspecified, without bleeding",Gastrointestinal,G65,2.6
+A41.9,"Sepsis, unspecified organism",Infectious,T60,10.8
+A41.51,Sepsis due to Escherichia coli,Infectious,T60,11.2
+A04.72,Enterocolitis due to Clostridioides difficile,Infectious,T61,8.6
+A49.01,Methicillin-resistant Staphylococcus aureus infection,Infectious,T61,9.3
+G40.909,"Epilepsy, unspecified, not intractable",Neurological,B70,4.2
+R55,Syncope and collapse,Neurological,B70,2.9
+G93.40,"Encephalopathy, unspecified",Neurological,B70,7.8
+R07.9,"Chest pain, unspecified",Other,F66,2.3
+R10.9,Unspecified abdominal pain,Other,G65,2.1
+R65.20,Severe sepsis without septic shock,Infectious,T60,9.4
